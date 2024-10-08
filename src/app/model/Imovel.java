@@ -1,6 +1,5 @@
-package app.controller.model;
+package app.model;
 
-import com.mysql.cj.x.protobuf.MysqlxDatatypes.Scalar.String;
 
 public class Imovel {
     private int codigo;
